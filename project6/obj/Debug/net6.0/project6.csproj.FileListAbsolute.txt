@@ -1,0 +1,15 @@
+/Users/bulingbuling/Documents/FM5252/project6/bin/Debug/net6.0/project6
+/Users/bulingbuling/Documents/FM5252/project6/bin/Debug/net6.0/project6.deps.json
+/Users/bulingbuling/Documents/FM5252/project6/bin/Debug/net6.0/project6.runtimeconfig.json
+/Users/bulingbuling/Documents/FM5252/project6/bin/Debug/net6.0/project6.dll
+/Users/bulingbuling/Documents/FM5252/project6/bin/Debug/net6.0/project6.pdb
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.csproj.AssemblyReference.cache
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.AssemblyInfoInputs.cache
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.AssemblyInfo.cs
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.csproj.CoreCompileInputs.cache
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.dll
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/refint/project6.dll
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.pdb
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/project6.genruntimeconfig.cache
+/Users/bulingbuling/Documents/FM5252/project6/obj/Debug/net6.0/ref/project6.dll
